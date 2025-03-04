@@ -43,7 +43,7 @@ To run this project locally, follow these steps:
    git clone https://github.com/shrutiP1/news-application-flutter.git
    ```
 
-2. Navigate to the project directory:
+2. Please download the files from my repository and add this line to the folder.
 
    ```bash
    cd news-application-flutter
